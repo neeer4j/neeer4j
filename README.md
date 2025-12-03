@@ -49,6 +49,13 @@ I’m not an expert yet but I learn fast, break things, fix them, and get better
 
 ---
 
+[![Profile Views](https://komarev.com/ghpvc/?username=neeer4j&style=flat-square)](https://github.com/neeer4j)
+[![GitHub Stars](https://img.shields.io/github/stars/neeer4j/neeer4j?style=flat-square&logo=github&label=Repo%20Stars)](https://github.com/neeer4j/neeer4j/stargazers)
+[![GitHub Followers](https://img.shields.io/github/followers/neeer4j?style=flat-square&logo=github&label=Followers)](https://github.com/neeer4j?tab=followers)
+[![Last Commit](https://img.shields.io/github/last-commit/neeer4j/neeer4j?style=flat-square&logo=git&label=Last%20Commit)](https://github.com/neeer4j/neeer4j/commits/main)
+
+---
+
 <!-- Live badges removed by request -->
 
 <!--
