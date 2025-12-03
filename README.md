@@ -1,7 +1,7 @@
 
 I’m a self-taught developer still learning the ropes. I love building things that feel fast, clean, and powerful. I dive into new technologies, figure things out as I go, and enjoy solving challenging problems.
-
 I’m not an expert yet but I learn fast, break things, fix them, and get better with every project.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -41,7 +41,7 @@ I’m not an expert yet but I learn fast, break things, fix them, and get better
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=neeer4j&theme=github-dark&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=neeer4j&theme=github-dark&hide_border=true)-->
 
 
 
