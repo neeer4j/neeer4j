@@ -41,7 +41,7 @@ Key features:
 - Electron-based cross-platform UI and native integrations
 - Encrypted data in transit when using secure WebRTC channels
 
-Find the repo: https://github.com/neeer4j/neeer4j
+Find the repo: https://github.com/neeer4j/SuperDesk
 
 ---
 
@@ -78,16 +78,9 @@ Here are a set of live, dynamic badges summarizing profile and repo-level stats 
 [![neeer4j's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeer4j&show_icons=true&count_private=true&theme=github_dark&hide_border=true)](https://github.com/neeer4j)
 
 ---
-
+<!--
 ## ✉️ Contact / Social
 
-- Email: `hello@example.com` (placeholder)
 - LinkedIn: https://www.linkedin.com/in/placeholder
-- Twitter: https://twitter.com/placeholder
-- Website: https://example.com
 
----
-
-If you'd like it more compact (single-row badges or a different theme), or want me to generate example profile sections for the `neeer4j/neeer4j` repo's README — tell me which style you prefer and I’ll adapt it. 👇
-
-🔧 Quick notes: Use the available dynamic badge urls for live stats. Replace placeholder contact info with your actual links when ready.
+--- -->
