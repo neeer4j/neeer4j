@@ -42,7 +42,11 @@ I enjoy building performant, privacy-focused tools that enable users to share an
 
 ## 📊 GitHub Stats
 
-*Top languages: JavaScript, Node.js, React, Electron*
+![GitHub Streak](https://streak-stats.demolab.com?user=neeer4j&theme=github-dark&hide_border=true)
+
+![neeer4j's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeer4j&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=github-dark&hide_border=true)
 
 ---
 
