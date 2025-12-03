@@ -1,10 +1,5 @@
-# neeer4j
 
----
-
-## 👋 Hi, I’m neeer4j
-
-I’m a self-taught developer currently building **Superdesk** — a cross-platform app and workspace. My primary focus is on peer-to-peer systems, WebRTC-based real-time sync, cross-platform Electron apps, and resilient WebRTC signaling.
+I'm a self-taught developer currently building **Superdesk** — a cross-platform app and workspace. My primary focus is on peer-to-peer systems, WebRTC-based real-time sync, cross-platform Electron apps, and resilient WebRTC signaling.
 
 I enjoy building performant, privacy-focused tools that enable users to share and collaborate without heavy reliance on centralized infrastructure.
 
@@ -25,7 +20,7 @@ I enjoy building performant, privacy-focused tools that enable users to share an
 
 **Superdesk** is a cross-platform workspace built with Electron and WebRTC for a fast, private collaboration experience.
 
-Short description:
+### Overview
 
 - Cross-platform Electron app (desktop-first, future mobile-friendly)
 - Peer-to-peer (P2P) file transfer capability — up to **20 GB** per transfer
@@ -33,7 +28,7 @@ Short description:
 - Signaling server to establish connections with optional TURN/STUN for NAT traversal
 - Socket.io on the signaling layer for robust connection handling
 
-Key features:
+### Key Features
 
 - Fast, end-to-end P2P file transfer (up to 20GB)
 - Multi-device workspace synchronization in near real-time
@@ -41,46 +36,37 @@ Key features:
 - Electron-based cross-platform UI and native integrations
 - Encrypted data in transit when using secure WebRTC channels
 
-Find the repo: https://github.com/neeer4j/SuperDesk
+🔗 [View Superdesk Repository](https://github.com/neeer4j/SuperDesk)
 
 ---
 
 ## 📊 GitHub Stats
 
-Below are dynamic visuals to track activity and contributions.
+![GitHub Streak](https://streak-stats.demolab.com?user=neeer4j&theme=github-dark&hide_border=true)
 
-- GitHub Streak:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=github_dark&hide_border=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeer4j&theme=dark&hide_border=true)
+![neeer4j's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeer4j&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
 
-- Top Languages:
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=github_dark)
-
-- Contribution Activity Graph:
-
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=neeer4j&theme=github)
-
-> Note: These are dynamic images from community tools (shields.io, GitHub Readme Stats, Activity Graph, Streak Stats). If you prefer a different theme or layout, I can adjust them.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=github-dark&hide_border=true)
 
 ---
 
-## 🔁 Live Stats / Badges
+## 🔁 Live Badges
 
-Here are a set of live, dynamic badges summarizing profile and repo-level stats (followers, stars, last commit, and profile views), plus the GitHub Readme Stats card for a compact overview.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=neeer4j&style=flat-square)](https://github.com/neeer4j)
-[![GitHub Stars](https://img.shields.io/github/stars/neeer4j/neeer4j?style=flat-square&logo=github&label=Repo%20Stars)](https://github.com/neeer4j/neeer4j/stargazers)
-[![GitHub Followers](https://img.shields.io/github/followers/neeer4j?style=flat-square&logo=github&label=Followers)](https://github.com/neeer4j?tab=followers)
-[![Last Commit](https://img.shields.io/github/last-commit/neeer4j/neeer4j?style=flat-square&logo=git&label=Last%20Commit)](https://github.com/neeer4j/neeer4j/commits/main)
-
-<!-- Compact profile card (shows top stats, commit count, etc.) -->
-[![neeer4j's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeer4j&show_icons=true&count_private=true&theme=github_dark&hide_border=true)](https://github.com/neeer4j)
+[![Profile Views](https://komarev.com/ghpvc/?username=neeer4j&style=flat-square&color=blue)](https://github.com/neeer4j)
+[![GitHub Followers](https://img.shields.io/github/followers/neeer4j?style=flat-square&logo=github)](https://github.com/neeer4j?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/neeer4j?style=flat-square&logo=github&affiliations=OWNER)](https://github.com/neeer4j)
 
 ---
+
 <!--
 ## ✉️ Contact / Social
 
+- Email: hello@example.com
 - LinkedIn: https://www.linkedin.com/in/placeholder
+- Twitter: https://twitter.com/placeholder
+- Website: https://example.com
 
---- -->
+---
+-->
