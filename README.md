@@ -42,23 +42,11 @@ I enjoy building performant, privacy-focused tools that enable users to share an
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=neeer4j&theme=github-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=github_dark&hide_border=true)
-
-![neeer4j's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeer4j&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=github-dark&hide_border=true)
+*Top languages: JavaScript, Node.js, React, Electron*
 
 ---
 
-## 🔁 Live Badges
-
-[![Profile Views](https://komarev.com/ghpvc/?username=neeer4j&style=flat-square&color=blue)](https://github.com/neeer4j)
-[![GitHub Followers](https://img.shields.io/github/followers/neeer4j?style=flat-square&logo=github)](https://github.com/neeer4j?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/neeer4j?style=flat-square&logo=github&affiliations=OWNER)](https://github.com/neeer4j)
-
----
+<!-- Live badges removed by request -->
 
 <!--
 ## ✉️ Contact / Social
