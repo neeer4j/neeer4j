@@ -1,8 +1,7 @@
 
-I'm a self-taught developer currently building **Superdesk** — a cross-platform app and workspace. My primary focus is on peer-to-peer systems, WebRTC-based real-time sync, cross-platform Electron apps, and resilient WebRTC signaling.
+I’m a self-taught developer still learning the ropes. I love building things that feel fast, clean, and powerful. I dive into new technologies, figure things out as I go, and enjoy solving challenging problems.
 
-I enjoy building performant, privacy-focused tools that enable users to share and collaborate without heavy reliance on centralized infrastructure.
-
+I’m not an expert yet but I learn fast, break things, fix them, and get better with every project.
 ---
 
 ## 🛠️ Tech Stack
