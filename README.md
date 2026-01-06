@@ -4,17 +4,6 @@ I’m not an expert yet but I learn fast, break things, fix them, and get better
 
 ---
 
-## 🛠️ Tech Stack
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Electron](https://img.shields.io/badge/Electron-19191A?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![WebRTC](https://img.shields.io/badge/WebRTC-0066CC?style=flat-square&logo=webrtc&logoColor=white)](https://webrtc.org/)
-[![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
-
----
-
 ## 🚧 Current Project: Superdesk
 
 **Superdesk** is a cross-platform workspace built with Electron and WebRTC for a fast, private collaboration experience.
@@ -47,11 +36,6 @@ I’m not an expert yet but I learn fast, break things, fix them, and get better
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=github-dark&hide_border=true)
 
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=neeer4j&style=flat-square)](https://github.com/neeer4j)
-[![GitHub Followers](https://img.shields.io/github/followers/neeer4j?style=flat-square&logo=github&label=Followers)](https://github.com/neeer4j?tab=followers)
-[![Last Commit](https://img.shields.io/github/last-commit/neeer4j/neeer4j?style=flat-square&logo=git&label=Last%20Commit)](https://github.com/neeer4j/neeer4j/commits/main)
 
 ---
 
