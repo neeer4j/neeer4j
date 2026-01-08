@@ -10,19 +10,20 @@ I’m not an expert yet but I learn fast, break things, fix them, and get better
 
 ### Overview
 
-- Cross-platform Electron app (desktop-first, future mobile-friendly)
-- Peer-to-peer (P2P) file transfer capability — up to **20 GB** per transfer
-- Real-time sync and messaging built on WebRTC data channels
-- Signaling server to establish connections with optional TURN/STUN for NAT traversal
-- Socket.io on the signaling layer for robust connection handling
+- **Hybrid Ecosystem**: Desktop (Electron), Web (React), and Mobile (React Native/Android)
+- **Remote Desktop Control**: Full mouse/keyboard control from any device with low latency
+- **High-Performance Screen Sharing**: Optimized for speed and clarity
+- **Peer-to-Peer Architecture**: Direct connections via WebRTC for privacy and speed
+- **Reliable Infrastructure**: Azure-hosted signaling with smart connection fallbacks (WebSocket/Polling)
 
 ### Key Features
 
-- Fast, end-to-end P2P file transfer (up to 20GB)
-- Multi-device workspace synchronization in near real-time
-- Resilient connection management (fallbacks via TURN/STUN)
-- Electron-based cross-platform UI and native integrations
-- Encrypted data in transit when using secure WebRTC channels
+- **Remote Control**: Control your desktop from your phone or another PC
+- **Mobile Companion App**: Android app for on-the-go access and control
+- **Zero-Config File Transfer**: Drag-and-drop P2P file sharing (up to 20GB)
+- **Cross-Device Sync**: Seamless session management between devices
+- **Secure by Default**: End-to-end encrypted WebRTC data channels
+- **Smart Connectivity**: Auto-switching between Direct P2P and TURN relays
 
 🔗 [View Superdesk Repository](https://github.com/neeer4j/SuperDesk)
 
