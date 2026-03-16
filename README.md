@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 neeer4j
+# idkcoding , do u ?
+
+![Techy Hero](hero.png)
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=neeer4j&theme=tokyonight&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ⚡ Building high-perf, distributed systems.
 
@@ -26,25 +30,10 @@ Self-taught dev. Focus: Low-latency, P2P, E2EE.
 
 ---
 
-## 🎨 Superdesk
-
-**High-performance, cross-platform workspace for private collaboration.**
-
-- 🌐 **Ecosystem**: Desktop (Electron) + Web (React) + Mobile (Android).
-- 🖱️ **Control**: Low-latency remote HID control.
-- ⚡ **P2P**: Direct WebRTC data channels.
-- 📁 **Transfer**: Zero-config P2P file sharing (up to 20GB).
-- 🔒 **Security**: End-to-end encrypted.
-
-- 🔗 [Repo](https://github.com/neeer4j/SuperDesk)
-
----
-
 ## 📊 Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeer4j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=grade)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117)
