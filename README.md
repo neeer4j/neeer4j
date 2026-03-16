@@ -2,35 +2,25 @@
 
 # idkcoding , do u ?
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=neeer4j&theme=tokyonight&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+building things that (hopefully) work. focus: p2p, low-latency, and breaking things to learn how they fit back together.
 
 </div>
 
 ---
 
-## 📊 Analytics
+### 🛠 what i use
+`js`, `react`, `node`, `webrtc`, `electron`, `azure`
 
-<div align="center">
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+### 📊 some numbers
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-</div>
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117)
+
+---
+
+<p align="center">
+  <i>if it's not low-latency, is it even worth it?</i>
+</p>
