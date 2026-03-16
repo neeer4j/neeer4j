@@ -8,11 +8,6 @@ I love building things that actually work, or at least have a good chance of wor
 
 ---
 
-### 🛠 what i use
-`js`, `react`, `node`, `vercel`
-
----
-
 ### 📊 some numbers
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
