@@ -2,13 +2,8 @@
 
 # idkcoding , do u ?
 
-![Techy Hero](hero.png)
-
 [![trophies](https://github-profile-trophy.vercel.app/?username=neeer4j&theme=tokyonight&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ⚡ Building high-perf, distributed systems.
-
-Self-taught dev. Focus: Low-latency, P2P, E2EE.
 
 </div>
 
