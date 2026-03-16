@@ -15,9 +15,9 @@ building things that (hopefully) work. focus: p2p, low-latency, and breaking thi
 
 ### 📊 some numbers
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=98FB98)
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=tokyonight&hide_border=true&area=true&bg_color=98FB98)
 
 ---
 
