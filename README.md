@@ -2,14 +2,14 @@
 
 # idkcoding , do u ?
 
-building things that (hopefully) work. focus: p2p, low-latency, and breaking things to learn how they fit back together.
+I love building things that actually work, or at least have a good chance of working. I’m especially interested in creating real projects that make me think and push me to learn new concepts. Right now I’m focused on learning full stack development with JavaScript and improving my overall development skills step by step. I learn best by getting hands on and experimenting freely, and I don’t mind breaking things along the way because taking systems apart helps me understand how each piece really works. Putting everything back together teaches me far more than just reading or watching tutorials. For me, the cycle of trying, failing, fixing, and improving is where real learning happens, and every broken build is simply another step toward understanding how everything fits together and works as a whole
 
 </div>
 
 ---
 
 ### 🛠 what i use
-`js`, `react`, `node`, `webrtc`, `electron`, `azure`
+`js`, `react`, `node`, `vercel`
 
 ---
 
