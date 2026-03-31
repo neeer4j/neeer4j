@@ -10,7 +10,6 @@ I love building things that actually work, or at least have a good chance of wor
 
 ### 📊 some numbers
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=98FB98&icon_color=98FB98&text_color=98FB98)
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=neeer4j&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=98FB98&line=98FB98&point=98FB98)
 
