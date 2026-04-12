@@ -1,4 +1,4 @@
 
 <p align="center">  
-  <i>if it's not low-latency, is it even worth it?</i>
+  <i>tryna learn new teachnologies everyday, tryna be better</i>
 </p>
